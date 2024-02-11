@@ -13,6 +13,7 @@ uvicorn main:app --host 0.0.0.0 --port 8888 --reload
 ```
 
 # Libraries and Frameworks
+- [FastAPI](https://fastapi.tiangolo.com/)
 - [HTMX](https://htmx.org/docs/): avoid javascript, all managed in backend (python)
 - [bootstrap](https://getbootstrap.com/): page layout, colors, behavior, ... (css/js)
 - [jinja2 templates](https://jinja.palletsprojects.com/en/3.1.x/)
